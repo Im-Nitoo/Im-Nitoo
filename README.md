@@ -1,5 +1,5 @@
 # 💫 About Me:
-Co-founder & CTO at Fashion Meets AI.<br>I am currently working on a startup whose goal is to build a fashion brand by integrating AI.<br>I'm a front-end developer.<br>I'm presently learning AI engineering and Cyber Security (attack and pen).<br>Learning in public • trying to keep up with the rapidly evolving industry.<br>
+Co-founder & CTO at Fashion Meets AI.<br>I am currently working on a startup whose goal is to build a fashion brand by integrating AI.<br>I'm a front-end developer.<br>I'm presently learning AI engineering and Cyber Security (attack and pen).<br>Learning in public • trying to keep up with the rapidly evolving industry.<br>Winner of ByteHacks_24
 
 
 ## 🌐 Socials:
